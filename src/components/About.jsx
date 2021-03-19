@@ -12,26 +12,26 @@ function About() {
                         <h3><span> qualification : </span> BSC </h3>
                         <h3><span> post : </span> front end developer </h3>
                         <h3><span> language : </span> English </h3>
-                        <a href="#">
+                        <a href="https://drive.google.com/file/d/1jou86HynNo2JxKW1FkyLFsvU5fnoGYhF/view?usp=sharing" target="_blank">
                             <button className="btn"> download CV <i className="fas fa-download"></i></button>
                         </a>
                     </div>
                     <div className="counter">
                         <div className="box">
-                            <span>2+</span>
+                            <span>0.8+</span>
                             <h3>years of experience</h3>
                         </div>
                         <div className="box">
-                            <span>100+</span>
+                            <span>12+</span>
                             <h3>porject completed</h3>
                         </div>
                         <div className="box">
-                            <span>430+</span>
+                            <span>4+</span>
                             <h3>happy clients</h3>
                         </div>
                         <div className="box">
-                            <span>12+</span>
-                            <h3>awards won</h3>
+                            <span>6+</span>
+                            <h3>certification</h3>
                         </div>
                     </div>
                 </div>

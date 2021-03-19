@@ -7,22 +7,34 @@ function Portfolio() {
                 <h1 className="heading"> my <span>portfolio</span></h1>
                 <div className="box-container">
                     <div className="box">
-                        <img src="images/img1.jpg" alt=""/>
+                        <a href="https://rb.gy/c4ygcc" target="_blank">
+                            <img src="images/lucid.png" alt=""/>
+                        </a>
                     </div>
                     <div className="box">
-                        <img src="images/img2.jpg" alt=""/>
+                        <a href="https://rb.gy/fdhruy" target="_blank">
+                            <img src="images/bubt-wiki.png" alt=""/>
+                        </a>
                     </div>
                     <div className="box">
-                        <img src="images/img3.jpg" alt=""/>
+                        <a href="https://rb.gy/6t0bza" target="_blank">
+                            <img src="images/axit.png" alt=""/>
+                        </a>
                     </div>
                     <div className="box">
-                        <img src="images/img4.jpg" alt=""/>
+                        <a href="https://rb.gy/txcjs0" target="_blank">
+                            <img src="images/strict.png" alt=""/>
+                        </a>
                     </div>
                     <div className="box">
-                        <img src="images/img5.jpg" alt=""/>
+                        <a href="https://rb.gy/dilqne" target="_blank">
+                            <img src="images/bst-mode.png" alt=""/>
+                        </a>
                     </div>
                     <div className="box">
-                        <img src="images/img6.jpg" alt=""/>
+                        <a href="https://rb.gy/ycqoc4" target="_blank">
+                            <img src="images/mail-card.png" alt=""/>
+                        </a>
                     </div>
                 </div>
             </section>

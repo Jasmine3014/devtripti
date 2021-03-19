@@ -5,7 +5,7 @@ function Header() {
         <div>
             <header>
                 <div className="user">
-                    <img src="images/pic.jpg" alt=""/>
+                    <img src="images/me2.jpg" alt=""/>
                     <h3 className="name">Jasmine Akter</h3>
                     <p className="post">front end developer</p>
                 </div>
