@@ -12,17 +12,27 @@ function Portfolio() {
                         </a>
                     </div>
                     <div className="box">
-                        <a href="https://rb.gy/fdhruy" target="_blank">
+                        <a href="https://jasmine3014.github.io/Rahima-Afrooze/" target="_blank">
+                            <img src="images/rahima.png" alt=""/>
+                        </a>
+                    </div>
+                    <div className="box">
+                        <a href="https://jasmine3014.github.io/html-css-wikipedia-page/" target="_blank">
                             <img src="images/bubt-wiki.png" alt=""/>
                         </a>
                     </div>
                     <div className="box">
-                        <a href="https://rb.gy/6t0bza" target="_blank">
+                        <a href="https://jasmine3014.github.io/psd-axit-convert-by-html-css-js/" target="_blank">
                             <img src="images/axit.png" alt=""/>
                         </a>
                     </div>
                     <div className="box">
-                        <a href="https://rb.gy/txcjs0" target="_blank">
+                        <a href="https://jasmine3014.github.io/home-realstate/" target="_blank">
+                            <img src="images/homeland.png" alt=""/>
+                        </a>
+                    </div>
+                    <div className="box">
+                        <a href="https://jasmine3014.github.io/stric-psd-to-html/" target="_blank">
                             <img src="images/strict.png" alt=""/>
                         </a>
                     </div>
@@ -32,7 +42,22 @@ function Portfolio() {
                         </a>
                     </div>
                     <div className="box">
-                        <a href="https://rb.gy/ycqoc4" target="_blank">
+                        <a href="https://jasmine3014.github.io/khadok-theme/" target="_blank">
+                            <img src="images/khadok.png" alt=""/>
+                        </a>
+                    </div>
+                    <div className="box">
+                        <a href="https://react-timer-jasmine.netlify.app/?fbclid=IwAR304no2nHPxEoHh1x2CTo_Iyr7LdmGT8yQEBvszDajgzGEL8sWZgVWrfTA" target="_blank">
+                            <img src="images/timer.png" alt=""/>
+                        </a>
+                    </div>
+                    <div className="box">
+                        <a href="https://jasmine3014.github.io/js-dom-digital-clock/" target="_blank">
+                            <img src="images/clock.png" alt=""/>
+                        </a>
+                    </div>
+                    <div className="box">
+                        <a href="https://jasmine3014.github.io/stric-psd-to-html/" target="_blank">
                             <img src="images/mail-card.png" alt=""/>
                         </a>
                     </div>
