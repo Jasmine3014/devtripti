@@ -12,11 +12,6 @@ function Portfolio() {
                         </a>
                     </div>
                     <div className="box">
-                        <a href="https://jasmine3014.github.io/Rahima-Afrooze/" target="_blank">
-                            <img src="images/rahima.png" alt=""/>
-                        </a>
-                    </div>
-                    <div className="box">
                         <a href="https://jasmine3014.github.io/html-css-wikipedia-page/" target="_blank">
                             <img src="images/bubt-wiki.png" alt=""/>
                         </a>
@@ -32,18 +27,23 @@ function Portfolio() {
                         </a>
                     </div>
                     <div className="box">
+                        <a href="https://jasmine3014.github.io/Rahima-Afrooze/" target="_blank">
+                            <img src="images/rahima.png" alt=""/>
+                        </a>
+                    </div>
+                    <div className="box">
                         <a href="https://jasmine3014.github.io/stric-psd-to-html/" target="_blank">
                             <img src="images/strict.png" alt=""/>
                         </a>
                     </div>
                     <div className="box">
-                        <a href="https://rb.gy/dilqne" target="_blank">
-                            <img src="images/bst-mode.png" alt=""/>
+                        <a href="https://jasmine3014.github.io/khadok-theme/" target="_blank">
+                            <img src="images/khadok.png" alt=""/>
                         </a>
                     </div>
                     <div className="box">
-                        <a href="https://jasmine3014.github.io/khadok-theme/" target="_blank">
-                            <img src="images/khadok.png" alt=""/>
+                        <a href="https://rb.gy/dilqne" target="_blank">
+                            <img src="images/bst-mode.png" alt=""/>
                         </a>
                     </div>
                     <div className="box">
