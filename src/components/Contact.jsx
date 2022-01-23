@@ -12,7 +12,7 @@ function Contact() {
                             <h3><i className="fas fa-envelope"></i> jasminetripti5@gmail.com </h3>
                             <h3><i className="fas fa-phone"></i> 01616813273 </h3>
                             <h3><i className="fas fa-phone"></i> 01616813273 </h3>
-                            <h3><i className="fas fa-map-marker-alt"></i> Mirpur-12, dhaka - 1216. </h3>
+                            <h3><i className="fas fa-map-marker-alt"></i> Mirpur-06, Dhaka - 1216. </h3>
                         </div>
                     </div>
                     <form action="">
