@@ -22,7 +22,7 @@ function About() {
                             <h3>years of experience</h3>
                         </div>
                         <div className="box">
-                            <span>12+</span>
+                            <span>25+</span>
                             <h3>porject completed</h3>
                         </div>
                         <div className="box">
